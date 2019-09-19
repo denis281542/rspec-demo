@@ -27,3 +27,7 @@ end
 #puts hero.power_up
 #puts hero.power_down
 #puts hero.hero_info
+
+def hero_info
+    "#{@name} has a health of #{@health}"
+  end
