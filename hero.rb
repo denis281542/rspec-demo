@@ -6,7 +6,14 @@ class Hero
 
 	def name
 		@name
-	end  
+	end
+
+  def name
+    @name
+  end  
+
+  end  
+  
 
   def power_up
     @health += 10
