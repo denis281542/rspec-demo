@@ -8,8 +8,8 @@ class Hero
 		@name
 	end
 
-  
-  
+
+
   def power_up
     @health += 10
   end
@@ -24,6 +24,20 @@ class Hero
 
 end
 
+
+def hero_info
+    "#{@name} has a health of #{@health}"
+  end
+
+enddef hero_info
+    "#{@name} has a health of #{@health}"
+  end
+
+enddef hero_info
+    "#{@name} has a health of #{@health}"
+  end
+
+end
 #hero = Hero.new('mike')
 #puts hero.name
 #puts hero.power_up
