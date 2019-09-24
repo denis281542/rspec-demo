@@ -8,6 +8,8 @@ class Hero
 		@name
 	end
 
+def
+
 
 
   def power_up
