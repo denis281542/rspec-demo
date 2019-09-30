@@ -14,7 +14,11 @@ def
 
   def power_up
     @health += 10
-  end  sdefe
+  end
+
+  def pog
+
+  end
 
   def power_down
     @health -= 10
