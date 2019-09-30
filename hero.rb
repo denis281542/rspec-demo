@@ -12,7 +12,9 @@ def
 
 
 
-  
+  def power_up
+    @health += 10
+  end  sdefe
 
   def power_down
     @health -= 10
