@@ -12,9 +12,7 @@ def
 
 
 
-  def power_up
-    @health += 10
-  end
+  
 
   def power_down
     @health -= 10
